@@ -25,14 +25,15 @@ for example:
 ssh -N -R 7070:localhost:22 User@ServerPublicIP
 </pre>
 
-#Dropbear
+# Dropbear
 mkdir /etc/dropbear
+
 ./dropbear -F -R -E -p 2222
 
-#Copy file via ssh without scp
+# Copy file via ssh without scp
 cat file | ssh root@IP "cat > /path/file"
 
-#SSH login with key
+# SSH login with key
 
 <pre>
 useradd -m -d /home/username -s /bin/bash username
