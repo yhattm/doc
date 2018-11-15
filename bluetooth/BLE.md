@@ -1,0 +1,43 @@
+Modify device address:
+
+1.  修改/lib/firmware/rtl8761aw_config
+
+1.1 此檔案為 binary file
+
+1.2 在文件最後面加上 3c 00 06 xx xx xx xx xx xx,
+
+1.3 第五個 byte +9
+
+2.  重裝 driver
+
+2.1 rmmod rtk_btusb
+
+2.2 insmod /drivers/rtk_btusb.ko
+
+直接用 ble 設 wifi (16 進制)
+
+01 41 53 55 53 04 (ASUS)
+
+37 30 37 30 33 38 39 37 1C (70703897)
+
+gatttool -b A0:0A:BF:16:40:28 --char-write-req -a 0x0014 -n 01415355530437303730333839371C
+
+01 61 6C 69 63 69 61 2E 79 61 6E 67 40 76 69 76 6F 74 65 6B 2E 63 6F 6D 04 (alicia.yang@vivotek.com)
+
+66 37 33 33 31 35 30 63 2D 32 30 35 61 2D 34 35 32 61 2D 38 30 64 32 2D 64 33 37 61 37 65 66 35 30 37 36 65 04 (f733150c-205a-452a-80d2-d37a7ef5076e)
+
+38 33 35 63 62 61 38 35 2D 38 61 64 35 2D 34 66 30 63 2D 62 39 33 31 2D 34 36 39 32 39 39 65 39 66 62 38 30 04(835cba85-8ad5-4f0c-b931-469299e9fb80)
+
+69 6E 66 61 6E 69 1C (infani)
+
+gatttool -b A0:0A:BF:16:40:28 --char-write-req -a 0x0016 -m 100 -n 01616C696369612E79616E67407669766F74656B2E636F6D04
+
+gatttool -b A0:0A:BF:16:40:28 --char-write-req -a 0x0016 -n 66373333313530632D323035612D343532612D383064322D64333761376566353037366504
+
+gatttool -b A0:0A:BF:16:40:28 --char-write-req -a 0x0016 -n
+
+38333563626138352D386164352D346630632D623933312D34363932393965396662383004
+
+gatttool -b A0:0A:BF:16:40:28 --char-write-req -a 0x0016 -n
+
+696E66616E691C
