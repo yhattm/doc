@@ -1,5 +1,6 @@
 # Tools
 
+- https://nodemon.io/
 - https://codesandbox.io
 - https://glitch.com
 - https://zeit.co/
