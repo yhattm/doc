@@ -46,5 +46,8 @@ Copy the public key /home/username/.ssh/id_dsa.pub onto the ssh server into /hom
 
 <pre>
 You can also forward your X session over SSH, to allow the use of graphical applications, by using the -Y flag:
-ssh -Y pi@192.168.1.5
+Enables X11 forwarding
+ssh -X pi@192.168.1.5
+
+-Y      Enables trusted X11 forwarding
 </pre>
