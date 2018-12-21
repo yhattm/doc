@@ -50,4 +50,7 @@ Enables X11 forwarding
 ssh -X pi@192.168.1.5
 
 -Y      Enables trusted X11 forwarding
+
+MacOS must install xquartz
+brew cask install xquartz
 </pre>
