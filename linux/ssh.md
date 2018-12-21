@@ -41,3 +41,10 @@ Create a key pair from the client which you will use to ssh from:
 ssh-keygen -t dsa
 Copy the public key /home/username/.ssh/id_dsa.pub onto the ssh server into /home/username/.ssh/authorized_keys
 </pre>
+
+# X-forwarding
+
+<pre>
+You can also forward your X session over SSH, to allow the use of graphical applications, by using the -Y flag:
+ssh -Y pi@192.168.1.5
+</pre>
