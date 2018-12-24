@@ -1,5 +1,8 @@
 # Tools
 
+- https://kodi.tv/
+- https://github.com/taxigps/xbmc-addons-chinese
+- https://www.remove.bg/
 - https://neocities.org/
 - https://audio-joiner.com/tw/
 - https://apkpure.com/tw/
