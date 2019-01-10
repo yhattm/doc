@@ -6,6 +6,7 @@
 * /etc/hostapd.conf
   * interface=ap0
   * driver=nl80211
+  * country_code=TW
   * ssid=AP
   * wpa=2
   * wpa_passphrase=password
