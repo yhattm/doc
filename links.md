@@ -1,5 +1,6 @@
 # Tools
 
+- https://termux.com/
 - https://you-get.org/
 - https://kodi.tv/
 - https://github.com/taxigps/xbmc-addons-chinese
