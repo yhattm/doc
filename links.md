@@ -1,5 +1,7 @@
 # Tools
 
+- https://www.tubeoffline.com/
+- https://savieo.com/
 - https://www.youtubnow.com/
 - https://serveo.net/
 - https://termux.com/
