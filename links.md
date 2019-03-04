@@ -8,6 +8,7 @@
 - https://you-get.org/
 - https://kodi.tv/
 - https://github.com/taxigps/xbmc-addons-chinese
+- https://aznhusband.github.io/
 - https://www.remove.bg/
 - https://neocities.org/
 - https://audio-joiner.com/tw/
