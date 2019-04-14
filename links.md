@@ -77,9 +77,10 @@
 - http://vmus.online/
 - https://popcorntime-online.tv/
 - http://m.123kubo.org/
-- https://1movies.to/
+- https://www3.1movies.is/
 - http://www.freehhhh.com/
 - http://www.yyetss.com/
 - http://icmovie.video/
 - https://www.momovod.com/
 - https://www.movieffm.net/
+- https://v.gimy.tv/
