@@ -75,7 +75,7 @@
 - https://www.freeliving.com.tw/visa/
 - http://www.jcb.tw/precious/airport.html
 - http://vmus.online/
-- https://popcorntime-online.tv/
+- https://popcorntime-online.ch/
 - http://m.123kubo.org/
 - https://www3.1movies.is/
 - http://www.freehhhh.com/
