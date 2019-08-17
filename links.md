@@ -32,7 +32,7 @@
 - Krita | Digital Painting. Creative Freedom.
 - Generate Sales Leads with Web Technology Stack Lookup | SimilarTech
 - https://smallpdf.com/zh-TW/sign-pdf
-- https://appear.in/
+- https://whereby.com/
 - https://www.multcloud.com/
 - Online video calls in browser for free - Videolink2.me
 - rollApp – Transform Your Browser Into a Productivity Suite
