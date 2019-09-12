@@ -31,6 +31,12 @@ echo "And the permissions for you are : ${perm}"
 
 read -p "Please input (Y/N): " yn
 
+which wpa_cli
+if [ "$?" = 1 ]; then
+    echo wpa_cli is not found.
+    exit 1
+fi
+
 if [ "${yn}" == "Y" ] || [ "${yn}" == "y" ]; then
   echo "OK, continue"
 elif [ "${yn}" == "N" ] || [ "${yn}" == "n" ]; then
