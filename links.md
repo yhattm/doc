@@ -78,8 +78,7 @@
 - http://www.jcb.tw/precious/airport.html
 - http://vmus.online/
 - https://popcorntime-online.ch/
-- http://m.123kubo.org/
-- https://www3.1movies.is/
+- https://www4.1movies.is/
 - http://www.freehhhh.com/
 - http://www.yyetss.com/
 - http://icmovie.video/
