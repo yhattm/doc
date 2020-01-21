@@ -1,5 +1,7 @@
 # Tools
 
+- https://rufus.ie/
+- https://openvanilla.org/
 - https://spacedesk.net/
 - https://www.tubeoffline.com/
 - https://savieo.com/
