@@ -45,7 +45,6 @@
 - Mobizen -連接智慧機和電腦
 - https://send-anywhere.com/
 - Online Photo Editor | Pixlr Editor | Autodesk Pixlr
-- https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso
 - Free Online Pinyin Keyboard - Sciweavers
 - Super Fast YouTube to MP3 Converter - YT2MP3
 - https://www.opensubtitles.org/zt#
