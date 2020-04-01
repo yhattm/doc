@@ -69,6 +69,7 @@
 - https://ehrweb.104.com.tw/b/home.do
 - http://mis.vivotek.tw/
 - https://confluence.vivotek.com
+- https://redmine.vivotek.com.tw/
 
 # Backup
 
