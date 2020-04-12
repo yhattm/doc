@@ -50,11 +50,8 @@
 - https://www.opensubtitles.org/zt#
 - Sci-Hub: removing barriers in the way of science
 - https://fund.cnyes.com/search/
-- Minergate
 - https://changelly.com/
 - https://send-anywhere.com/
-- https://www.blockchain.com/
-- http://free-electrons.com
 
 # Vivotek
 
