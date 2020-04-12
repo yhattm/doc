@@ -55,20 +55,12 @@
 - https://send-anywhere.com/
 - https://www.blockchain.com/
 - http://free-electrons.com
-- RStudio
-- Kibana
-- Jupyter
 
 # Vivotek
 
-- https://ehr.vivotek.com
-- http://ehr.vivotek.tw
 - http://welfare.vivotek.tw
-- http://bpm-prd:50000/irj/portal
-- http://rd-web
 - https://ehrweb.104.com.tw/b/home.do
 - http://mis.vivotek.tw/
-- https://confluence.vivotek.com
 - https://redmine.vivotek.com.tw/
 
 # Backup
