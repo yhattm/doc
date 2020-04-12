@@ -74,10 +74,6 @@
 # Backup
 
 - https://fdzone.org/
-- http://24tms.vlimo.com.tw/
-- https://www.freeliving.com.tw/vp/
-- https://www.freeliving.com.tw/visa/
-- http://www.jcb.tw/precious/airport.html
 - http://vmus.online/
 - https://popcorntime-online.ch/
 - https://www4.1movies.is/
