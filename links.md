@@ -65,6 +65,4 @@
 - http://icmovie.video/
 - https://www.movieffm.net/
 - http://www.zimuzu.io/index.html
-
-- https://www.momovod.com/
-- https://v.gimy.tv/
+- https://balatutu.com/
