@@ -37,7 +37,7 @@
 - rollApp – Transform Your Browser Into a Productivity Suite
 - Takeafile - Send files without intermediate servers
 - Vuash - Send secret messages safely.
-- PDF Candy - free online PDF tools
+- https://pdfcandy.com/
 - AutoDraw
 - Mobizen -連接智慧機和電腦
 - https://send-anywhere.com/
