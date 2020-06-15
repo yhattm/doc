@@ -51,9 +51,7 @@
 # Vivotek
 
 - http://welfare.vivotek.tw
-- https://ehrweb.104.com.tw/b/home.do
 - http://mis.vivotek.tw/
-- https://redmine.vivotek.com.tw/
 
 # Backup
 
