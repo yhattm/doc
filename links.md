@@ -47,15 +47,9 @@
 - Sci-Hub: removing barriers in the way of science
 - https://fund.cnyes.com/search/
 
-# Vivotek
-
-- http://welfare.vivotek.tw
-- http://mis.vivotek.tw/
-
 # Backup
 
 - https://fdzone.org/
-- http://vmus.online/
 - https://popcorntime-online.ch/
 - https://www4.1movies.is/
 - http://www.yyetss.com/
