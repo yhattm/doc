@@ -16,14 +16,14 @@
 - https://neocities.org/
 - https://apkpure.com/tw/
 - https://ngrok.com/
-- Free VPN Service by Betternet
+- https://www.betternet.co/
 - https://archive.is/
-- Mockplus 做原型
+- https://www.mockplus.com/
 - https://www.multcloud.com/
 - https://www.rollapp.com/
-- Mobizen -連接智慧機和電腦
+- https://www.mobizen.com/
 - https://www.opensubtitles.org/zt#
-- Sci-Hub: removing barriers in the way of science
+- https://scihub.to/
 - https://fund.cnyes.com/search/
 
 # Coding
@@ -34,7 +34,7 @@
 - https://vercel.com/
 - https://dashboard.heroku.com
 - https://htmlreference.io/
-- Generate Sales Leads with Web Technology Stack Lookup | SimilarTech
+- https://www.similartech.com/
 
 
 # PDF
