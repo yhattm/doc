@@ -21,7 +21,7 @@
 - https://nodemon.io/
 - https://codesandbox.io
 - https://glitch.com
-- https://zeit.co/
+- https://vercel.com/
 - https://ngrok.com/
 - https://cssreference.io/
 - https://htmlreference.io/
