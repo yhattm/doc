@@ -23,7 +23,6 @@
 - https://glitch.com
 - https://vercel.com/
 - https://ngrok.com/
-- https://cssreference.io/
 - https://htmlreference.io/
 - https://dashboard.heroku.com
 - https://speechnotes.co/
