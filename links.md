@@ -4,22 +4,16 @@
 - http://www.vua.sh/
 - https://blymp.io/#/
 - https://takeafile.com/
+- https://send-anywhere.com/
 
 # Tools
 
 - https://rufus.ie/
 - https://openvanilla.org/
 - https://spacedesk.net/
-- https://www.tubeoffline.com/
 - https://savieo.com/
-- https://www.youtubnow.com/
 - https://serveo.net/
 - https://termux.com/
-- https://you-get.org/
-- https://kodi.tv/
-- https://github.com/taxigps/xbmc-addons-chinese
-- https://aznhusband.github.io/
-- https://www.remove.bg/
 - https://neocities.org/
 - https://audio-joiner.com/tw/
 - https://apkpure.com/tw/
@@ -35,20 +29,32 @@
 - https://www.screencastify.com/
 - https://archive.is/
 - Mockplus 做原型
-- Krita | Digital Painting. Creative Freedom.
 - Generate Sales Leads with Web Technology Stack Lookup | SimilarTech
 - https://smallpdf.com/zh-TW/sign-pdf
 - https://www.multcloud.com/
 - rollApp – Transform Your Browser Into a Productivity Suite
 - https://pdfcandy.com/
-- AutoDraw
 - Mobizen -連接智慧機和電腦
-- https://send-anywhere.com/
-- Online Photo Editor | Pixlr Editor | Autodesk Pixlr
 - Free Online Pinyin Keyboard - Sciweavers
 - https://www.opensubtitles.org/zt#
 - Sci-Hub: removing barriers in the way of science
 - https://fund.cnyes.com/search/
+
+# Video
+
+- https://you-get.org/
+- https://www.youtubnow.com/
+- https://www.tubeoffline.com/
+- https://kodi.tv/
+- https://github.com/taxigps/xbmc-addons-chinese
+- https://aznhusband.github.io/
+
+# Image
+
+- AutoDraw
+- Online Photo Editor | Pixlr Editor | Autodesk Pixlr
+- Krita | Digital Painting. Creative Freedom.
+- https://www.remove.bg/
 
 # Backup
 
