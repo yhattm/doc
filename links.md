@@ -15,7 +15,6 @@
 - https://serveo.net/
 - https://termux.com/
 - https://neocities.org/
-- https://audio-joiner.com/tw/
 - https://apkpure.com/tw/
 - https://nodemon.io/
 - https://codesandbox.io
@@ -26,19 +25,21 @@
 - https://dashboard.heroku.com
 - https://speechnotes.co/
 - Free VPN Service by Betternet
-- https://www.screencastify.com/
 - https://archive.is/
 - Mockplus 做原型
 - Generate Sales Leads with Web Technology Stack Lookup | SimilarTech
-- https://smallpdf.com/zh-TW/sign-pdf
 - https://www.multcloud.com/
 - rollApp – Transform Your Browser Into a Productivity Suite
-- https://pdfcandy.com/
 - Mobizen -連接智慧機和電腦
 - Free Online Pinyin Keyboard - Sciweavers
 - https://www.opensubtitles.org/zt#
 - Sci-Hub: removing barriers in the way of science
 - https://fund.cnyes.com/search/
+
+# PDF
+
+- https://pdfcandy.com/
+- https://smallpdf.com/zh-TW/sign-pdf
 
 # Video
 
@@ -49,6 +50,10 @@
 - https://kodi.tv/
 - https://github.com/taxigps/xbmc-addons-chinese
 - https://aznhusband.github.io/
+
+# Audio
+
+- https://audio-joiner.com/tw/
 
 # Image
 
