@@ -1,5 +1,6 @@
 # Tools
 
+- https://copypaste.me/
 - https://blymp.io/#/
 - https://rufus.ie/
 - https://openvanilla.org/
