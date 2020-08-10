@@ -22,15 +22,13 @@
 - https://ngrok.com/
 - https://htmlreference.io/
 - https://dashboard.heroku.com
-- https://speechnotes.co/
 - Free VPN Service by Betternet
 - https://archive.is/
 - Mockplus 做原型
 - Generate Sales Leads with Web Technology Stack Lookup | SimilarTech
 - https://www.multcloud.com/
-- rollApp – Transform Your Browser Into a Productivity Suite
+- https://www.rollapp.com/
 - Mobizen -連接智慧機和電腦
-- Free Online Pinyin Keyboard - Sciweavers
 - https://www.opensubtitles.org/zt#
 - Sci-Hub: removing barriers in the way of science
 - https://fund.cnyes.com/search/
@@ -54,6 +52,7 @@
 # Audio
 
 - https://audio-joiner.com/tw/
+- https://speechnotes.co/
 
 # Image
 
