@@ -59,9 +59,9 @@
 
 # Image
 
-- AutoDraw
-- Online Photo Editor | Pixlr Editor | Autodesk Pixlr
-- Krita | Digital Painting. Creative Freedom.
+- https://www.autodraw.com/
+- https://pixlr.com/tw/
+- https://krita.org/
 - https://www.remove.bg/
 
 # Backup
