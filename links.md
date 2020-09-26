@@ -71,7 +71,7 @@
 - https://popcorntime-online.ch/
 - https://www4.1movies.is/
 - http://www.yyetss.com/
+- http://rrys.tv/
 - http://icmovie.video/
 - https://www.movieffm.net/
-- http://www.zimuzu.io/index.html
 - https://balatutu.com/
