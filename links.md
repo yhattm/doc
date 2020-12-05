@@ -72,6 +72,4 @@
 - https://www4.1movies.is/
 - http://www.yyetss.com/
 - http://rrys.tv/
-- http://icmovie.video/
 - https://www.movieffm.net/
-- https://balatutu.com/
