@@ -9,7 +9,6 @@
 # Tools
 
 - https://rufus.ie/
-- https://openvanilla.org/
 - https://spacedesk.net/
 - https://serveo.net/
 - https://termux.com/
