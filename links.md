@@ -68,6 +68,4 @@
 - https://www.okex.com/
 - https://fdzone.org/
 - https://popcorntime-online.ch/
-- http://www.yyetss.com/
-- http://rrys.tv/
 - https://www.movieffm.net/
