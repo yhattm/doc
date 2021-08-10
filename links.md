@@ -3,7 +3,6 @@
 - https://copypaste.me/
 - http://www.vua.sh/
 - https://blymp.io/#/
-- https://takeafile.com/
 - https://send-anywhere.com/
 
 # Tools
