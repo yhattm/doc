@@ -16,6 +16,7 @@
 - https://neocities.org/
 - https://apkpure.com/tw/
 - https://ngrok.com/
+- http://localhost.run/
 - https://www.betternet.co/
 - https://archive.is/
 - https://www.mockplus.com/
