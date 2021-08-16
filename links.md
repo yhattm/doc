@@ -32,7 +32,6 @@
 - https://glitch.com
 - https://vercel.com/
 - https://dashboard.heroku.com
-- https://htmlreference.io/
 - https://www.similartech.com/
 
 
