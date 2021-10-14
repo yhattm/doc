@@ -36,12 +36,6 @@
 - https://dashboard.heroku.com
 - https://www.similartech.com/
 
-
-# PDF
-
-- https://pdfcandy.com/
-- https://smallpdf.com/zh-TW/sign-pdf
-
 # Video
 
 - https://www.screencastify.com/
