@@ -22,7 +22,6 @@
 - https://archive.is/
 - https://www.mockplus.com/
 - https://www.multcloud.com/
-- https://www.rollapp.com/
 
 # Coding
 
