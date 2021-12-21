@@ -43,9 +43,6 @@
 - https://you-get.org/
 - https://www.youtubnow.com/
 - https://www.tubeoffline.com/
-- https://kodi.tv/
-- https://github.com/taxigps/xbmc-addons-chinese
-- https://aznhusband.github.io/
 
 # Audio
 
