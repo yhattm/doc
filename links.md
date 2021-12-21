@@ -23,7 +23,6 @@
 - https://www.mockplus.com/
 - https://www.multcloud.com/
 - https://www.rollapp.com/
-- https://www.opensubtitles.org/zt#
 - https://scihub.to/
 - https://fund.cnyes.com/search/
 
