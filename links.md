@@ -3,7 +3,7 @@
 
 # Transfer
 
-- https://jamboard.google.com/d/1yXriUiR1iILva_euf2XgYAtdbi_tdgCnTS0TcUqYces/edit?usp=sharing
+- https://1drv.ms/w/s!Av4M8e4Vs5CTiOJY0kCZr8IGH17aLg?e=jxdhDY
 - https://copypaste.me/
 - http://www.vua.sh/
 - https://blymp.io/#/
