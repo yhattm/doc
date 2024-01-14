@@ -11,3 +11,6 @@ wpa_cli -i wlan0 enable_network 0
 wpa_cli -i wlan0 select_network 0
 wpa_cli -i wlan0 status
 </pre>
+
+# config
+* /etc/wpa_supplicant/wpa_supplicant.conf
