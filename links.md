@@ -42,6 +42,7 @@
 
 # Video
 
+- https://pin.gl/
 - https://www.screencastify.com/
 - https://savieo.com/
 - https://you-get.org/
