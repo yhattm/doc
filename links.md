@@ -32,6 +32,9 @@
 - https://www.mockplus.com/
 - https://www.multcloud.com/
 
+# Presentation
+- https://gamma.app/
+
 # Coding
 
 - https://nodemon.io/
