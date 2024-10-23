@@ -11,6 +11,7 @@
 - https://misty-meadow-6745.on.fleek.co/#/
 
 # Design
+- https://www.canva.com/
 - https://interiorai.com/
 - https://www.roomgpt.io/
 
