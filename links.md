@@ -57,6 +57,7 @@
 - https://you-get.org/
 - https://www.youtubnow.com/
 - https://www.tubeoffline.com/
+- https://eyecatchup.github.io/hlscast/
 
 # Audio
 
