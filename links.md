@@ -18,6 +18,7 @@
 
 # AI
 - https://illuminate.google.com/
+- https://manus.im/
 
 # Tools
 - https://gotohttp.com/
