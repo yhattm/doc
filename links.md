@@ -1,3 +1,6 @@
+# Library
+- https://library.thekono.com/ht/libraries/chinese
+
 # Game
 - https://www.airconsole.com/
 
