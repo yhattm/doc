@@ -40,6 +40,7 @@
 - https://archive.is/
 - https://www.mockplus.com/
 - https://www.multcloud.com/
+- https://smallpdf.com/
 
 # Presentation
 - https://gamma.app/
