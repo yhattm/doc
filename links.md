@@ -1,3 +1,8 @@
+# AI
+- https://www.task-master.dev/
+- https://illuminate.google.com/
+- https://manus.im/
+
 # Library
 - https://library.thekono.com/ht/libraries/chinese
 
@@ -18,10 +23,6 @@
 - https://www.canva.com/
 - https://interiorai.com/
 - https://www.roomgpt.io/
-
-# AI
-- https://illuminate.google.com/
-- https://manus.im/
 
 # Tools
 - https://gotohttp.com/
